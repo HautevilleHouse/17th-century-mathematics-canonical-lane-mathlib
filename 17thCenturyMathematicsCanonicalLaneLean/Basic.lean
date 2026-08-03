@@ -1,0 +1,2 @@
+import 17thCenturyMathematicsCanonicalLaneLean.GateLemmas
+import 17thCenturyMathematicsCanonicalLaneLean.FinalTheorem
